@@ -1,10 +1,14 @@
 # ecommerce-analysis
-Analysis of 100k+ orders from Olist Brazilian E-Commerce platform
+
 # 🛒 E-Commerce Customer Behavior Analysis
 
 ## 📌 Project Overview
-Analysis of 100k+ orders from Olist, a Brazilian e-commerce platform.
-Explored sales trends, delivery performance, and customer satisfaction.
+Performed end-to-end exploratory data analysis on 100,000+ real 
+e-commerce orders from Olist. Merged multiple datasets, cleaned 
+raw data, and built visualizations to answer key business questions:
+When do customers shop the most? How does delivery speed affect 
+satisfaction? What payment methods are preferred? 
+Tools used: Python, Pandas, Matplotlib, Seaborn.
 
 ## 🔧 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
